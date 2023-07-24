@@ -11,7 +11,9 @@
         <div class="cta">
             <a href="mailto:ramadhannkurniawan@gmail.com">Contact Developer</a>
             <span>|</span>
-            <a href="">GitHub</a>
+            <a href="https://github.com/muhammadramadhann/simple-todolist" target="_blank"
+                >GitHub</a
+            >
         </div>
     </main>
 </template>
